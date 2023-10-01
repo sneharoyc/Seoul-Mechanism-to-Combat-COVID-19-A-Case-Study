@@ -14,6 +14,7 @@ d. To model the impact of government responses and death cases in respect to new
 establish a statistical relationship.
 
 Methods: 
+
 a) Descriptive and Exploratory data analysis was used to understand the growth of pandemic curve and change in government strategies to mitigate the impact of the 
 outbreak. 
 
