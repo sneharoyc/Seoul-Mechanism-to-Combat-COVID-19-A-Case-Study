@@ -15,7 +15,6 @@ establish a statistical relationship.
 
 Methods: 
 
-a) Descriptive and Exploratory data analysis was used to understand the growth of pandemic curve and change in government strategies to mitigate the impact of the 
-outbreak. 
+a) Descriptive and Exploratory data analysis was used to understand the growth of pandemic curve and change in government strategies to mitigate the impact of the outbreak. 
 
 b) Multiple regression analysis and random forest regression were then used to explore the relationship between government responses and new COVID-19 cases. 
